@@ -9,7 +9,7 @@ Drop `Envy` into your resource, and initialize it as follows:
 local EnvyEmitter = loadstring(Envy:new())()
 ```
 ### The API
-`Envy` exposes 3 methods to work with:\
+`Envy` exposes 3 methods to work with:
 - .on(eventName, callback)
 - .emit(eventName, payload)
 - .once(eventName, payload)
