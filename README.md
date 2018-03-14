@@ -20,3 +20,8 @@ local EnvyEmitter = loadstring(Envy:new())()
 
 ### License
 MIT
+
+### Fancy buying me a beer?
+If this project was helpful to you, you can buy me a beer if you feel like doing so. 🙂
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YM7E34E2LT4D8)
